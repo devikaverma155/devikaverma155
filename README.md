@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **react,nodejs,material ui **
+- 🌱 I’m currently learning **next,nodejs,ai/ml **
 
 - 💬 Ask me about **react , node , expressjs**
 
