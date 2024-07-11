@@ -19,7 +19,7 @@ I'm a passionate learner and problem solver with a strong foundation in both fro
 ### 🔧 Technologies & Tools
 - **Front-End**: HTML, CSS, JavaScript, React, Next.js, Material UI
 - **Back-End**: Node.js, Express, REST APIs
-- **AI/ML**: Python, TensorFlow, Keras, scikit-learn
+- **AI/ML**: Python, TensorFlow, scikit-learn
 
 
 ### 📫 Let's Connect
