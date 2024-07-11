@@ -13,8 +13,7 @@ I'm a passionate learner and problem solver with a strong foundation in both fro
 - **AI/ML Enthusiast**: Currently diving into the fascinating world of Artificial Intelligence and Machine Learning.
 
 ### 🌱 Currently Learning
-- Deep Learning and Neural Networks
-- Natural Language Processing
+- Backend technologies
 - Data Science and Analytics
 
 ### 🔧 Technologies & Tools
