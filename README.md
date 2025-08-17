@@ -6,7 +6,7 @@
 👋 Hi there! I'm Devika Verma 
 
 I'm a passionate learner and problem solver with a strong foundation in both front-end and back-end development. I thrive on tackling complex challenges and continuously expanding my skill set. 
-#### Check out my resume [https://drive.google.com/file/d/1Ok2TuCx60X4pCu_Gc94KqF8K2oC0nUHH/view?usp=drive_link](https://drive.google.com/file/d/1Ok2TuCx60X4pCu_Gc94KqF8K2oC0nUHH/view?usp=drive_link)
+
 ### 🚀 What I Do
 - **Front-End Development**: Crafting intuitive and responsive user interfaces with modern technologies.
 - **Back-End Development**: Building robust and scalable server-side applications.
